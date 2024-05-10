@@ -1,6 +1,6 @@
 Broadcast Message Plugin
 ========================
-(Fork from archived Projedt *[plugin-broadcast](https://github.com/kanboard/plugin-broadcast)* by Frédéric Guillot, Balázs Úr and others 
+(Fork from archived Projedt *[plugin-broadcast](https://github.com/kanboard/plugin-broadcast)* by Frédéric Guillot, Balázs Úr and others) 
 - Broadcast messages to all users via the application
 - Send a message to all active users via email
 
