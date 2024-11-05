@@ -7,4 +7,5 @@ return [
     'Publish' => 'Közzététel',
     'Broadcast Message by Email' => 'Üzenet mindenkinek e-mailben',
     'Send to everyone' => 'Küldés mindenkinek',
+    // 'Expiration Date' => '',
 ];

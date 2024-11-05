@@ -7,4 +7,5 @@ return [
     'Publish' => 'Senden',
     'Broadcast Message by Email' => 'Email-Nachricht an alle',
     'Send to everyone' => 'An alle senden',
+    'Expiration Date' => 'Verfallsdatum',
 ];
