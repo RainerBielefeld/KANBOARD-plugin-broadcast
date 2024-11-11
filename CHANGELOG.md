@@ -13,6 +13,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 * Langpack de_DE
 * Langpack de_DE_du
+* Langpack es_ES
+* Langpack fr_FR
 * This file CHANGELOG.md
 *2 Wikipages here on Github
   * [Wecome](https://github.com/RainerBielefeld/KANBOARD-plugin-broadcast/wiki)
