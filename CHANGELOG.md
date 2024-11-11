@@ -15,8 +15,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * Langpack de_DE_du
 * Langpack es_ES
 * Langpack fr_FR
-* This file CHANGELOG.md
-*2 Wikipages here on Github
+* This file CHANGELOG.md  
+* (2 draft Wikipages for MASTER here on Github)
   * [Wecome](https://github.com/RainerBielefeld/KANBOARD-plugin-broadcast/wiki)
   * [Description](https://github.com/RainerBielefeld/KANBOARD-plugin-broadcast/wiki/Description) with some HowTo hints
 
