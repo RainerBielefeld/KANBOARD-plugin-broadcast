@@ -13,7 +13,7 @@
         "license": "MIT",
         "readme": "https://github.com/RainerBielefeld/KANBOARD-plugin-broadcast/blob/master/README.md",
         "remote_install": true,
-        "title": "Breadcast",
+        "title": "Broadcast",
         "version": "${VERSION}"
     }
 }
