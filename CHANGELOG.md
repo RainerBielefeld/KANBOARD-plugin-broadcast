@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * Expiration Date" not translated by locale #1 – fixed for all 5 existing LangPacks
 
 ### Added
+*plugins.json
 * Langpack de_DE
 * Langpack de_DE_du
 * Langpack es_ES
