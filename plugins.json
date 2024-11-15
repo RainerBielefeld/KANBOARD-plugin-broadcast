@@ -3,7 +3,7 @@
         "author": "Frédéric Guillot, Balázs Úr, Rainer Bielefeld",
         "compatible_version": ">=1.2.3",
         "description": "Broadcast Messages by WEB Popup or E-Mail",
-        "download": "https://github.com/RainerBielefeld/KANBOARD-plugin-broadcast/releases/tag/v1.1.0",
+        "download": "https://github.com/RainerBielefeld/KANBOARD-plugin-broadcast/releases/tag/1.1.0",
         "has_hooks": true,
         "has_overrides": true,
         "has_schema": true,
