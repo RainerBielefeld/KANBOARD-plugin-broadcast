@@ -1,5 +1,5 @@
 {
-    "Calendar": {
+    "Broadcast": {
         "author": "Frédéric Guillot, Balázs Úr, Rainer Bielefeld",
         "compatible_version": ">=1.2.3",
         "description": "Broadcast Messages by WEB Popup or E-Mail",
