@@ -8,4 +8,5 @@ return [
     'Broadcast Message by Email' => 'Difusión de mensaje por correo electrónico',
     'Send to everyone' => 'Enviar a todos',
     'Expiration Date' => 'Fecha de caducidad',
+    'Close' => 'Cerrar',
 ];
