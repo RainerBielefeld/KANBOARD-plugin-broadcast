@@ -7,7 +7,6 @@ return [
     'Publish' => 'Publier',
     'Broadcast Message by Email' => 'Diffuser un message par email',
     'Send to everyone' => 'Envoyer à tout le monde',
-    'Expiration Date' => 'Date de'expiration',
     'Expiration Date' => 'Date de expiration',
     'Close' => 'Fermer',
 ];
